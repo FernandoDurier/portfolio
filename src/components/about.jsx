@@ -13,8 +13,12 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am D.Sc. Candidate at The Federal University of the State of Rio de Janeiro - UNIRIO, researching about Artificial Intelligence and Natural Language Processing.</p>
+                    <p>My passion for Data Science and Machine Learning came from my mathmatics and science class in my young age, exactly during my first class about human neural system, and matrixes.</p>
+                    <p>In the college I started by database and info theory, then sought their application in my scientific scholarship in Business Process Management, where my research was about the application of knowledge discover in database's process to processes' logs in order to discover key process attributes that were important to predict its flow.</p>
+                    <p>My grad's thesis was about the usage of sociopolitical context sentiment analysis data to enhance the predictive monitoring task of a process. Such work provided me good foundation to my research area nowadays as I processed tons of news in order to extract its sentiment charges and imbue into proceesses' events time frame. Also granted me a renowned paper in the area.</p>
+                    <p>My next challenge then was the Fake News, as they come to be a great issue in political context at 2016, 2018, and even nowadays. So in my Master's work I researched and developed a model and methodology capable of differentiate True, Sarcastic and Fake Brazilian Portuguese News.</p>
+                    <p>Always looking for a challenge, now my goal is to extend my research investigating new models and data fusion processes to improve my classification model Judice Verum (the Judge of Truth).</p>
                     </div>
                 </div>
                 </div>
@@ -37,8 +41,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Data Science</h3>
+                    <p>I have experience on data processing and transformation, information fusion, webscraping, and data mining in order to solve a given problem.</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +53,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>In order to keep my experiments running correctly and optimal I leverage my knowledge upon data structures and algorithm analysis.</p>
                 </div>
                 </div>
             </div>
@@ -59,46 +63,12 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Software Development</h3>
+                    <p>Working for more than 3 years for IBM polished my software development skills I've learned throughout my graduations.</p>
+                    <p>Have worked with convetional and non-convetional database management, web application development, containerization, cluster computing, and machine learning model development.</p>
                 </div>
                 </div>
             </div>
-            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
-                </div>
-                </div>
-            </div>
-            */}
             </div>
         </div>
         </section>
