@@ -15,6 +15,17 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Head of Innovation at IBM Global Financing<span>2021-present</span></h2>
+                        <p>On December 2021, I've been bestowed with the honor of being the Head of Innovation of our department, thanks to my contributions to our business within the areas of DS, ML, AI, and Cloud Computing.</p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
@@ -45,7 +56,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Iteration Manager(Scrum Master) at IBM Global Financing<span>2018-present</span></h2>
+                        <h2>Iteration Manager(Scrum Master) at IBM Global Financing<span>2018-2021</span></h2>
                         <p>Due to my known sense of responsibility, technical knowledge, and innate leadership, or at least what my manager said to me at time, I've been chosen to be the Iteration Manager of our agile squad.</p>
                         <p>My mission as an Iteration Manager is to assume the Scrum Master's responsibilities, and also, part of the manager role (from IBM's view) such as people's management, knowledge management, and career advising.</p>
                       </div>

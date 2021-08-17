@@ -68,9 +68,6 @@ export default class Projects extends Component {
 											<span>One of the key components of KDD is to deliver value and solve the proposed problem.</span>
 											<span>The best way to show your findings or to plan which would be the best data transformation strategies to preprocess your dataset is to have a good and clear visualization.</span>
 											<span>My preferred visualizations are the ones from Analytics Dashboards such as Tableau or Watson Analytics, and the Seaborn and Matplotlib libraries from Python</span>
-											<span>To show the solutions my models give, normally, I choose the 3D scatterplot when handling overlaping classification problems, Tree Maps or Decision Trees for simpler classification, and Dendograms and Sunbursts for Clustering problems.</span>
-											<span>Of course the visualization depends on the nature of the problem being handled.</span>
-											<span></span>
 										</div>
 									</div>
 								</div>
@@ -83,7 +80,6 @@ export default class Projects extends Component {
 											<span>The research area that introduced me to this world, BPM is the area that focus on techniques and analysis of continuous flow of events and how to optimize and better monitor its fluidity in order to attain its final goal.</span>
 											<span>My main works in this area is the application of Data Fusion and NLP for Predictive Monitoring of Processes.</span>
 											<span>One of my interests in the area is also the Process Discovery in Event Logs, the Process Mining activity.</span>
-											<span>My preffered tools to explore this area are ProM, Camunda, Bonita, Weka(for simple and quick analysis), and Bizagi.</span>
 										</div>
 									</div>
 								</div>
