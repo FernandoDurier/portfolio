@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Head of Innovation at IBM Global Financing<span>2021-present</span></h2>
-                        <p>On December 2021, I've been bestowed with the honor of being the Head of Innovation of our department, thanks to my contributions to our business within the areas of DS, ML, AI, and Cloud Computing.</p>
+                        <h2>Lead Data Scientist at Watson AR at IBM Financing<span>2021-present</span></h2>
+                        <p>On December 2021, I've been leading the data science efforts thanks to my contributions to our business within the areas of DS, ML, AI, and Cloud Computing.</p>
                       </div>
                     </div>
                   </article>
