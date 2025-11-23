@@ -21,6 +21,17 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
+                        <h2>First Line Manager & Manager of AI at Watson AR at IBM Financing<span>2023-present</span></h2>
+                        <p>On June 2023, I've been chosen as the new First Line Manager of Watson AR Project in IBM Financing due to stellar contributions in cognitive systems deliveries, strategic planning, resourcefulness and responsibility. Under my leadership the project grew even more its portfolio of AI solutions for finance, spreading our collaboration not only to Accounts Receivables, but, also Treasury and Commercial Financing. I've led more than 15 employees for a period, and nowadays 10 employees dedicated to researching and developing cognitive solutions and hyperautomations in benefit of our organization collection processes, free cash flow prediction, as well as data governance.</p>
+                      </div>
+                    </div>
+                </article>
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
                         <h2>Lead Data Scientist at Watson AR at IBM Financing<span>2021-present</span></h2>
                         <p>On December 2021, I've been leading the data science efforts thanks to my contributions to our business within the areas of DS, ML, AI, and Cloud Computing.</p>
                       </div>
@@ -32,7 +43,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Data Scientist at IBM Global Financing<span>2020-present</span></h2>
+                        <h2>Data Scientist at IBM Global Financing<span>2020-2023</span></h2>
                         <p>On December 2019, I've been pointed to assume the leading role of Data Scientist at IBM Global Financing, the first official at our financing domain at IBM at the time.</p>
                         <p>My goals are to lead the team of developers to research and develop machine learning models capable of optimize the accounts and receivables processes of IGF, and pave the environment to the new data science project to come to our business unit.</p>
                       </div>
@@ -44,8 +55,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Doctor of Sciences in Informatics at Federal University of the State of Rio de Janeiro - UNIRIO<span>2020-present</span></h2>
-                        <p>I will continue my Master's research and try to improve and generalize our proposed model and methodology.</p>
+                        <h2>Doctor of Sciences in Informatics at Federal University of the State of Rio de Janeiro - UNIRIO<span>2020-2024</span></h2>
+                        <p>I've continued my Master's research, improving and generalizing our proposed model and methodology, thus stablishing Sentiment Gradient as an efficient and generelizeable in three domains (news classification, product review, and electoral opinion classification). Bringing in average 5% increase in performance (F-Measure) to the application domains.</p>
                         <p>Advised by Ana Cristina Bicharra Garcia.</p>
                       </div>
                     </div>
