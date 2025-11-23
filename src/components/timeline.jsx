@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>First Line Manager & Manager of AI at Watson AR at IBM Financing<span>2023-present</span></h2>
-                        <p>On June 2023, I've been chosen as the new First Line Manager of Watson AR Project in IBM Financing due to stellar contributions in cognitive systems deliveries, strategic planning, resourcefulness and responsibility. Under my leadership the project grew even more its portfolio of AI solutions for finance, spreading our collaboration not only to Accounts Receivables, but, also Treasury and Commercial Financing. I've led more than 15 employees for a period, and nowadays 10 employees dedicated to researching and developing cognitive solutions and hyperautomations in benefit of our organization collection processes, free cash flow prediction, as well as data governance.</p>
+                        <p>On July 2023, I've been chosen as the new First Line Manager of Watson AR Project in IBM Financing due to stellar contributions in cognitive systems deliveries, strategic planning, resourcefulness and responsibility. Under my leadership the project grew even more its portfolio of AI solutions for finance, spreading our collaboration not only to Accounts Receivables, but, also Treasury and Commercial Financing. I've led more than 15 employees for a period, and nowadays 10 employees dedicated to researching and developing cognitive solutions and hyperautomations in benefit of our organization collection processes, free cash flow prediction, as well as data governance.</p>
                       </div>
                     </div>
                 </article>
